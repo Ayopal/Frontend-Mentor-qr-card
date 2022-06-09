@@ -52,7 +52,7 @@ body {
 
 img{
     width: 265px;
-    height: 300px;
+    height: 290px;
     margin: 15px auto;
     border-radius: 15px;
 }
@@ -61,7 +61,8 @@ img{
     text-align: center;
 }
 
-.inner-container h2 {
+.inner-container h1 {
+    font-family: (--outfit);
     font-size: 20px;
     color: var(--Dark-blue);
     font-weight: 900;
