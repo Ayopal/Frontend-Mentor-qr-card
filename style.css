@@ -42,7 +42,7 @@ body {
     background: var(--White);
     width: 300px;
     max-width: 300px;
-    height: 450px;
+    height: 500px;
     border-radius: 15px;
     font-family: 'Outfit', sans-serif;
     box-shadow: 0 8px 5px 0px rgba(0,0,0,0.05);
@@ -51,9 +51,9 @@ body {
 }
 
 img{
-     width: 265px;
+    width: 265px;
+    height: 300px;
     margin: 15px auto;
-    height: auto;
     border-radius: 15px;
 }
 
@@ -65,7 +65,7 @@ img{
     font-size: 20px;
     color: var(--Dark-blue);
     font-weight: 900;
-    margin-bottom: 10px;
+    margin-block: 10px;
 }
 
 .inner-container p {
@@ -89,6 +89,8 @@ img{
     img {
         width: 220px;
         margin: 14px auto;
+        height: auto;
+
     }
 }
 
